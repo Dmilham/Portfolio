@@ -207,6 +207,8 @@ hr.small {
 
 .portfolio {
     padding: 50px 0;
+    filter: brightness(75%);
+    background-image: url(../img/wood3.jpg)
 }
 
 .portfolio-item {
@@ -235,6 +237,8 @@ hr.small {
 
 footer {
     padding: 100px 0;
+    filter: brightness(75%);
+    background-image: url(../img/Black-Wood-Wallpapers.jpg);
 }
 
 #to-top {
@@ -252,13 +256,20 @@ footer {
 .wood2{filter: brightness(75%);
     background-image: url(../img/wood2.jpg);}
 
-.wood3filter: { filter: brightness(75%);
-    background-image: url(../img/wood3.jpg);}
-
-.wood4{filter: brightness(75%);
+.call-to-action {filter: brightness(75%);
     background-image: url(../img/wood4.jpg);}
 
 .color{
     color:#FAFAF3;
     background-color: rgba(0,0,0,0.3);
+}
+
+.changethiscolor{
+    color: antiquewhite;
+}
+
+.bio{
+    font-size: 24px;
+    text-shadow: white;
+    background-color: rgba(0,0,0,.2);
 }
