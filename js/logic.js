@@ -2,6 +2,6 @@
   $(function(){
       $(".element").typed({
         strings: ["Daniel Milham"],
-        typeSpeed: 3
+        typeSpeed: 2
       });
   });

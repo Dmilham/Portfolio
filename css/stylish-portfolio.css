@@ -248,6 +248,10 @@ footer {
   right: 5px;
 }
 
+.bro{filter: brightness(75%);
+    background-color: rgba(0, 0, 0 ,.3);
+}
+
 .wood {
     filter: brightness(75%);
     background-image: url(../img/Black-Wood-Wallpapers.jpg);
@@ -272,4 +276,17 @@ footer {
     font-size: 24px;
     text-shadow: white;
     background-color: rgba(0,0,0,.2);
+}
+
+.box{background-color: rgba(8,15,17,.3);
+    position: absolute;
+    left: 25%;
+    height: 300px;
+    width: 50%;}
+
+.social-links {
+	color: rgba(60,143,157,.5);
+}
+.social-links:hover {
+	color:rgba(72,143,157,.5);
 }
