@@ -257,7 +257,9 @@ footer {
     background-image: url(../img/Black-Wood-Wallpapers.jpg);
 }
 
-.wood2{filter: brightness(75%);
+.wood2{
+    padding:175px;
+    filter: brightness(75%);
     background-image: url(../img/wood2.jpg);}
 
 .call-to-action {filter: brightness(75%);
