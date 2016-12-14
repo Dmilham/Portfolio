@@ -248,8 +248,8 @@ footer {
   right: 5px;
 }
 
-.bro{filter: brightness(75%);
-    background-color: rgba(0, 0, 0 ,.6);
+.bro{
+    background-color: rgba(0, 0, 0 ,.4);
 }
 
 .wood {
